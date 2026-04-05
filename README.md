@@ -4,4 +4,9 @@ In this project we are going to execute an end to end aws focused data engineeri
 
 This can help say a sample customer who wants advertise based on seeing the importance of the data
 
-here is the architecture designed
+here is the architecture designed:
+
+![img.png](img.png)
+
+
+kaggle dataset link: https://www.kaggle.com/datasets/datasnaek/youtube-new?resource=download
