@@ -10,3 +10,9 @@ here is the architecture designed:
 
 
 kaggle dataset link: https://www.kaggle.com/datasets/datasnaek/youtube-new?resource=download
+
+we will use aws lambda to convert json to parquet
+and we will use glue to convert csv to parquet
+
+
+also note the lamdafunction python files should be named as lamda_function
